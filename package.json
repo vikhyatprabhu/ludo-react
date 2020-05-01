@@ -2,7 +2,7 @@
   "name": "ludo-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vikhyatprabhu.github.io/my-app",
+  "homepage": "https://vikhyatprabhu.github.io/ludo-react",
   "dependencies": {
     "@material-ui/core": "^4.9.12",
     "@testing-library/jest-dom": "^4.2.4",
